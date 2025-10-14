@@ -1,0 +1,16 @@
+Starting with just the basic concept:
+"Development of an advanced hydroplaning prediction tool"
+-Building on previous hydroplaning tool
+-Use existing models for predicting hydroplaning based on water film thickness (WFT)
+-Improve models for estimating WFT based on
+	-Rainfall rate
+	-Cross-slope and grade
+	-Texture/profile depth
+	-Rutting
+	-Pavement type
+-How to improve these models?
+	-Use small pavement samples and vary angles to test actual WFT
+	-CFD model run on 3D models of samples
+	-Develop empirical equations to predict WFT on one "tile"
+	-Final model combines effect from multiple tiles
+-Tool should input continuous data from MPSV (cross-slope, grade, texture) and design speed from RCI to report continuous hydroplaning risk
