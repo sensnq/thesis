@@ -14,3 +14,17 @@ Starting with just the basic concept:
 	-Develop empirical equations to predict WFT on one "tile"
 	-Final model combines effect from multiple tiles
 -Tool should input continuous data from MPSV (cross-slope, grade, texture) and design speed from RCI to report continuous hydroplaning risk
+
+-Sample construction
+-Need samples of
+	-Dense grade
+	-Open grade (FC-5, FC-7, ...?)
+	-Concrete (long. ground, trans. ground, ...?)
+-For all except open, 3D scan and 3D print
+-For open:
+	-3D scan different aggregate sizes to make aggregate library
+	-Generate 3D model programmatically
+-WFT measurement
+	-Add vertical cylindrical channels in samples
+	-Screw-in conductive probe measures height of water at different spots
+	-Zero off of reference plane
