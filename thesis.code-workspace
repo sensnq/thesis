@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"[bib]": {
+			"editor.quickSuggestions": {
+				"other": false,
+				"comments": false,
+				"strings": false
+			}
+		}
+	}
+}
