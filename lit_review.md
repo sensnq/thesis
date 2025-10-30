@@ -55,7 +55,6 @@
   - "Steam Pressures Predominating - Reverted Rubber Skid"
     - Prevent tires from locking up
 
-
 ### Pavement and Geometric Design Criteria for Minimizing Hydroplaning
 
 ```tex
@@ -94,3 +93,20 @@ I will only look at the parts relavent to my project here.
   - Empirical and theoretical equations for water depth compared, see ref (11)
 - Chapter 6
   - Internal drainage in OGFC greatly reduced after surface layer stabilizes
+
+### Tentative Pavement and Geometric Design Criteria for Minimizing Hydroplaning
+
+```tex
+\cite{gallaway1975}
+```
+
+- Chapter outline
+  1. The phenomenon of hydroplaning
+  2. Empirical indications of hydroplaning
+  3. Pavement drainage
+  4. Surface texture, skid resistance, and accident frequency
+  5. Pavement cross slope criteria as related to vehicle control
+  6. A determination of deficiencies in existing surface drainage design methodology for sag vertical curves
+  7. Summary of tentative criteria to reduce hydroplaning
+  8. Tentative recommendations for construction
+- Chapter 2
