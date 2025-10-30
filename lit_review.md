@@ -62,7 +62,7 @@
 \cite{gallaway1979}
 ```
 
-Summary report for a pretty big project. [Phase 1: Tentative Pavement and Geometric Design Criteria for Minimizing Hydroplaning](<https://rosap.ntl.bts.gov/view/dot/41846}>). Can't find Phase 2.
+Summary report for a pretty big project. [Phase 1: Tentative Pavement and Geometric Design Criteria for Minimizing Hydroplaning](<https://rosap.ntl.bts.gov/view/dot/41846>). Can't find Phase 2.
 
 Also from Gallaway (not exhaustive):
 
@@ -90,7 +90,7 @@ I will only look at the parts relavent to my project here.
   - Gengenbach (4): For treaded tires, no hydroplaning observed at water depth under 0.08 in
   - Force analysis of tire in hydroplaning
 - Chapter 5
-
-## Hydroplaning Models
-
-## Water Film Thickness Models
+  - Looked at puddle depth due to cross-slope/rutting
+  - Empirical and theoretical equations for water depth compared, see ref (11)
+- Chapter 6
+  - Internal drainage in OGFC greatly reduced after surface layer stabilizes
