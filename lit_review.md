@@ -110,3 +110,44 @@ I will only look at the parts relavent to my project here.
   7. Summary of tentative criteria to reduce hydroplaning
   8. Tentative recommendations for construction
 - Chapter 2
+  - See ref (147)
+  - Spin down trailer
+    - Indicates change in magnitude/orientation of force on tire interface
+    - Given as % change in rotational speed
+    - Resultant force in spindown moves further forward on tire, line of action moves reducing torque on the wheel
+    - Full dynamic hydroplaning can occur at spindown such as 10%, 50%, or even 101%
+  - Drag link skid number trailer
+    - Locks trailer and measures drag force
+    - Includes hydrodynamic drag, so tire-pavement friction is overpredicted
+  - Torque skid number trailer
+    - Uses a torque transducer. Gives a better estimate of tire-pavement friction
+  - Interpretation of hydroplaning data
+    - Small speed difference between 10% and 50% SD, so 10% used as hydroplaning indicator
+    - Fit equation for hydroplaning speed based on spindown, pressure, tread depth, texture depth, and water thickness
+    - Not sensitive to texture depth below ~0.03in
+    - Deterioration of control during hydroplaning occurrs gradually over about 20 mph. It seems abrupt beause on a straight road very little friction is required to maintain direction about 0.1. The drop from 0.1 to 0 takes place in 1 or 2 mph or with slight change in water or texture depth
+    - Transverse texture provides better drainage than longitudinal
+    - Transverse texture is better at draining the tire-pavement contact patch
+    - Transverse texture resists forward water movement that creates the tire water wedge
+    - Longitudinal texture is better for cornering friction
+- Chapter 3
+  - Thin film of water increases in thickness as it flows to edge of pavement
+  - While flow is below the top of pavement microasperities (texture), flow can be considered like porous media with free surface. -> Negative water depth
+  - Turns to open channel flow once water surface covers texture
+  - For porous flow, Darcy's law (look into this)
+  - Ackers (ref 8) gives an equation for open channel flow
+  - (Refs 9 and 10) looking at critical Froude number for open channels
+  - Real rainfall water depth tests from (ref 11)
+  - Effects of rainfall impact neglected. This would cause turbulence at lower critical Froude number values
+  - Depression storage is the amount of water required to fill the surface before runoff
+  - Surface detention is the sheet of water on the surface at constant runoff
+  - Surface detention also causes splash, and depression storage causes spray after rainfall is over
+  - (Refs 2 and 12) give more limited equations for water depth
+  - Equations for equivalent slope and drainage length
+- Chapter 4
+  - (Ref 24) high dependence of water depth on wind speed and direction
+  - Microtexture very important for wet friction in viscous hydroplaning but also increases tire wear
+  - Macrotexture important for dynamic hydroplaning, but aggregate above ~15mm causes road noise concerns
+  - (Ref 31) used a drainage meter to evaluate hydraulic radius of flow between tire and pavement
+  - (Ref 32) used outflow device to evaluate wet weather performance
+  - Equations given to predict SN from various factors
