@@ -1,5 +1,43 @@
 # Literature Review Notes
 
+## Reading Queue
+
+- "Mathematical Analysis for Pneumatic Tire Hydroplaning", Browne 1975
+  - <https://store.astm.org/stp39045s.html>
+  - <https://ufl-flvc.primo.exlibrisgroup.com/permalink/01FALSC_UFL/168mpg1/cdi_globaltitleindex_catalog_47491575>
+  - <https://ufl-flvc.primo.exlibrisgroup.com/permalink/01FALSC_UFL/1ska4rt/cdi_scopus_primary_2_s2_0_85102328285>
+- "The Effect of Wet Pavement on the Performance of Automobile Tires", Gengenbach 1967
+  - <https://www.google.com/books/edition/The_Effect_of_Wet_Pavement_on_the_Perfor/tgxwMwAACAAJ?hl=en&kptab=overview>
+- Darcy's Law
+- "Resistance of fluids flowing in channels and pipes", Ackers 1958
+  - <https://library.wur.nl/WebQuery/titel/297839>
+  - <https://ufl-flvc.primo.exlibrisgroup.com/permalink/01FALSC_UFL/168mpg1/cdi_globaltitleindex_catalog_89441198>
+- "Roll Waves and Slug Flows in Inclined Open Channels", Mayer 1959
+  - <https://ascelibrary.org/doi/abs/10.1061/JYCEAJ.0000328>
+  - <https://ufl-flvc.primo.exlibrisgroup.com/permalink/01FALSC_UFL/168mpg1/cdi_jndl_porta_oai_ndlsearch_ndl_go_jp_R100000136_I1362544419416831616>
+- "On kinematic waves I. Flood movement in long rivers", Lighthill 1955
+  - Downloaded
+  - <https://royalsocietypublishing.org/rspa/article/229/1178/281/9538/On-kinematic-waves-I-Flood-movement-in-long-rivers>
+- "The Effects of Rainfall Intensity, Pavement Cross Slope, Surface Texture, and Drainage Length on Pavement Water Depths", Gallaway 1971
+  - Downloaded
+  - <https://rosap.ntl.bts.gov/view/dot/84801>
+- "Tire Hydroplaning: Testing, Analysis, and Design", Yeager 1974
+  - <https://link.springer.com/chapter/10.1007/978-1-4757-1370-1_3>
+  - <https://ufl-flvc.primo.exlibrisgroup.com/permalink/01FALSC_UFL/168mpg1/cdi_globaltitleindex_catalog_128101166>
+- "THE DEPTH OF RAIN WATER ON ROAD SURFACES", Ross 1968
+  - <https://trid.trb.org/View/99064>
+  - <https://ufl-flvc.primo.exlibrisgroup.com/permalink/01FALSC_UFL/168mpg1/cdi_globaltitleindex_catalog_128828610>
+- "Tire Wet Traction: Operational Severity and Its Influence on Performance", Veith 1974
+  - <https://link.springer.com/chapter/10.1007/978-1-4757-1370-1_2>
+  - <https://ufl-flvc.primo.exlibrisgroup.com/permalink/01FALSC_UFL/168mpg1/cdi_globaltitleindex_catalog_128101166>
+  - Need to submit another ILL for this book chapter
+- "PREDICTION OF SKID-RESISTANCE GRADIENT AND DRAINAGE CHARACTERISTICS FOR PAVEMENTS", Moore 1966
+  - Downloaded
+  - <https://trid.trb.org/View/104804>
+- "Fluid Film Thickness Measurement with Moiré Fringes", Browne 1972
+  - <https://opg.optica.org/ao/abstract.cfm?URI=ao-11-10-2269>
+  - <https://ufl-flvc.primo.exlibrisgroup.com/permalink/01FALSC_UFL/168mpg1/cdi_proquest_miscellaneous_734262358>
+
 ## General
 
 ### Enhanced Hydroplaning Prediction Tool
@@ -90,7 +128,7 @@ I will only look at the parts relavent to my project here.
   - Force analysis of tire in hydroplaning
 - Chapter 5
   - Looked at puddle depth due to cross-slope/rutting
-  - Empirical and theoretical equations for water depth compared, see ref (11)
+  - Empirical and theoretical equations for water depth compared, see (Ref 11, gallaway1975)
 - Chapter 6
   - Internal drainage in OGFC greatly reduced after surface layer stabilizes
 
@@ -110,7 +148,6 @@ I will only look at the parts relavent to my project here.
   7. Summary of tentative criteria to reduce hydroplaning
   8. Tentative recommendations for construction
 - Chapter 2
-  - See ref (147)
   - Spin down trailer
     - Indicates change in magnitude/orientation of force on tire interface
     - Given as % change in rotational speed
