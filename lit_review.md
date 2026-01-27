@@ -8,16 +8,16 @@
   - <https://ufl-flvc.primo.exlibrisgroup.com/permalink/01FALSC_UFL/1ska4rt/cdi_scopus_primary_2_s2_0_85102328285>
 - "The Effect of Wet Pavement on the Performance of Automobile Tires", Gengenbach 1967
   - <https://www.google.com/books/edition/The_Effect_of_Wet_Pavement_on_the_Perfor/tgxwMwAACAAJ?hl=en&kptab=overview>
-- Darcy's Law
+- Named fluids relations:
+  - Darcy's Law
+  - Kleitz-Seddon law
+  - Riemann's relation
 - "Resistance of fluids flowing in channels and pipes", Ackers 1958
   - <https://library.wur.nl/WebQuery/titel/297839>
   - <https://ufl-flvc.primo.exlibrisgroup.com/permalink/01FALSC_UFL/168mpg1/cdi_globaltitleindex_catalog_89441198>
 - "Roll Waves and Slug Flows in Inclined Open Channels", Mayer 1959
   - <https://ascelibrary.org/doi/abs/10.1061/JYCEAJ.0000328>
   - <https://ufl-flvc.primo.exlibrisgroup.com/permalink/01FALSC_UFL/168mpg1/cdi_jndl_porta_oai_ndlsearch_ndl_go_jp_R100000136_I1362544419416831616>
-- "On kinematic waves I. Flood movement in long rivers", Lighthill 1955
-  - Downloaded
-  - <https://royalsocietypublishing.org/rspa/article/229/1178/281/9538/On-kinematic-waves-I-Flood-movement-in-long-rivers>
 - "The Effects of Rainfall Intensity, Pavement Cross Slope, Surface Texture, and Drainage Length on Pavement Water Depths", Gallaway 1971
   - Downloaded
   - <https://rosap.ntl.bts.gov/view/dot/84801>
@@ -188,3 +188,25 @@ I will only look at the parts relavent to my project here.
   - (Ref 31) used a drainage meter to evaluate hydraulic radius of flow between tire and pavement
   - (Ref 32) used outflow device to evaluate wet weather performance
   - Equations given to predict SN from various factors
+
+## Fluids
+
+### On Kinematic Waves I. Flood Movement in Long Rivers
+
+```tex
+  \cite{lighthill1955}
+```
+
+<https://royalsocietypublishing.org/rspa/article/229/1178/281/9538/On-kinematic-waves-I-Flood-movement-in-long-rivers>
+
+- TODO: Write citation
+- Section 1. Introduction
+  - Class of wave motion distinct from classical wave motion
+  - These waves exist in 1D flow relative to flow (q), concentation (k), and position (x)
+  - Only have one wave velocity at each point cmp. to 2 in dynamic waves -- Kleitz-Seddon law
+  - Waves may develop discontinuities when fast waves overtake slow. Called shock waves, same formation process as shock waves in gas
+  - Real systems may not behave with these assumptions, but they work on large enough time scales
+  - Discusses mathematical basis for shock waves
+  - Riemann's relation
+- Section 2. Flood Waves
+  - Seddon 1900 is the first account in English
