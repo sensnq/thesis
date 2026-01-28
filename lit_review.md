@@ -2,20 +2,23 @@
 
 ## Reading Queue
 
+- Named fluids relations:
+  - Darcy's Law
+  - Kleitz-Seddon law
+  - Riemann's relation
+  - Chezy formula
+  - Manning's relation
 - "Mathematical Analysis for Pneumatic Tire Hydroplaning", Browne 1975
   - <https://store.astm.org/stp39045s.html>
   - <https://ufl-flvc.primo.exlibrisgroup.com/permalink/01FALSC_UFL/168mpg1/cdi_globaltitleindex_catalog_47491575>
   - <https://ufl-flvc.primo.exlibrisgroup.com/permalink/01FALSC_UFL/1ska4rt/cdi_scopus_primary_2_s2_0_85102328285>
 - "The Effect of Wet Pavement on the Performance of Automobile Tires", Gengenbach 1967
   - <https://www.google.com/books/edition/The_Effect_of_Wet_Pavement_on_the_Perfor/tgxwMwAACAAJ?hl=en&kptab=overview>
-- Named fluids relations:
-  - Darcy's Law
-  - Kleitz-Seddon law
-  - Riemann's relation
 - "Resistance of fluids flowing in channels and pipes", Ackers 1958
   - <https://library.wur.nl/WebQuery/titel/297839>
   - <https://ufl-flvc.primo.exlibrisgroup.com/permalink/01FALSC_UFL/168mpg1/cdi_globaltitleindex_catalog_89441198>
 - "Roll Waves and Slug Flows in Inclined Open Channels", Mayer 1959
+  - Downloaded
   - <https://ascelibrary.org/doi/abs/10.1061/JYCEAJ.0000328>
   - <https://ufl-flvc.primo.exlibrisgroup.com/permalink/01FALSC_UFL/168mpg1/cdi_jndl_porta_oai_ndlsearch_ndl_go_jp_R100000136_I1362544419416831616>
 - "The Effects of Rainfall Intensity, Pavement Cross Slope, Surface Texture, and Drainage Length on Pavement Water Depths", Gallaway 1971
@@ -35,6 +38,7 @@
   - Downloaded
   - <https://trid.trb.org/View/104804>
 - "Fluid Film Thickness Measurement with Moiré Fringes", Browne 1972
+  - Downloaded
   - <https://opg.optica.org/ao/abstract.cfm?URI=ao-11-10-2269>
   - <https://ufl-flvc.primo.exlibrisgroup.com/permalink/01FALSC_UFL/168mpg1/cdi_proquest_miscellaneous_734262358>
 
@@ -199,7 +203,6 @@ I will only look at the parts relavent to my project here.
 
 <https://royalsocietypublishing.org/rspa/article/229/1178/281/9538/On-kinematic-waves-I-Flood-movement-in-long-rivers>
 
-- TODO: Write citation
 - Section 1. Introduction
   - Class of wave motion distinct from classical wave motion
   - These waves exist in 1D flow relative to flow (q), concentation (k), and position (x)
@@ -210,3 +213,7 @@ I will only look at the parts relavent to my project here.
   - Riemann's relation
 - Section 2. Flood Waves
   - Seddon 1900 is the first account in English
+  - Balance struck between gravity force at water surface and friction at bottom gives the "Chezy formula"
+  - If slope (S), friction (f) and length (L) are invariant with k, wave velocity (c) is = 3/2 fluid velocity (v)
+  - In reality these have variation with depth
+  -f depends on ratio of bed element size to hydraulic mean depth, approximated by Manning's relation giving c=(5/3)v
