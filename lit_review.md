@@ -205,7 +205,7 @@ I will only look at the parts relavent to my project here.
 
 - Section 1. Introduction
   - Class of wave motion distinct from classical wave motion
-  - These waves exist in 1D flow relative to flow (q), concentation (k), and position (x)
+  - These waves exist in 1D flow relative to flow (q), concentration (k), and position (x)
   - Only have one wave velocity at each point cmp. to 2 in dynamic waves -- Kleitz-Seddon law
   - Waves may develop discontinuities when fast waves overtake slow. Called shock waves, same formation process as shock waves in gas
   - Real systems may not behave with these assumptions, but they work on large enough time scales
@@ -216,4 +216,13 @@ I will only look at the parts relavent to my project here.
   - Balance struck between gravity force at water surface and friction at bottom gives the "Chezy formula"
   - If slope (S), friction (f) and length (L) are invariant with k, wave velocity (c) is = 3/2 fluid velocity (v)
   - In reality these have variation with depth
-  -f depends on ratio of bed element size to hydraulic mean depth, approximated by Manning's relation giving c=(5/3)v
+  - f depends on ratio of bed element size to hydraulic mean depth, approximated by Manning's relation giving c=(5/3)v
+  - S is typically independent of k, and is equal to mean slope of the bed. However it must not equal bed slope when cross section changes
+  - Since flow depth varies over time on real river, consider q a function of height above a fixed plane (h)
+  - More literature mentioned on page 10
+  - "Monoclinical flood wave" or "steady profile"
+- Section 3. Competition between kinematic and dynamic waves
+  - Now considering inertia of fluid and dependence of slope on other factors
+  - Froude number (F) = 2 is critical, after the equation breaks down (for Chezy law)
+  - Dynamic waves experience exponential decay
+  - A disturbance is carried downstream as a kinematic wave
